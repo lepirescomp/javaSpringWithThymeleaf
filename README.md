@@ -1,4 +1,7 @@
-- Application based on course 2 of Java Web Development by Udacity.
+
+Application based on course 2 of Java Web Development by Udacity.
+
+
 Contains:
 - Persistence layer with MyBatis as ORM;
 - Autehntication using Spring Security;
